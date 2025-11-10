@@ -31,9 +31,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, Node.js |
+| **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, HTML, CSS |
 | **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
-| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | Vue, Netlify |
+| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, Netlify |
 | **Diseño y Creación Web Bijagua** | Personal & business website design. | HTML, CSS, JavaScript |
 
 #### Links:
