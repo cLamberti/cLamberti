@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-lamberti.christopher%40gmail.com-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Software+Engineer;IoT+Enthusiast)](https://git.io/typing-svg)
+
 @Universidad Nacional de Costa Rica  (UNA)
 
 ### Tech Stack
