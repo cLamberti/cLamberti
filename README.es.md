@@ -6,7 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-lamberti.christopher%40gmail.com-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Full-Stack;Ingeniero+en+sistemas;IoT+Entisiasta)](https://git.io/typing-svg)
+
 @Universidad Nacional de Costa Rica  (UNA)
 
 ### Technologías
@@ -23,6 +25,7 @@
 | **Wake Up** *(en proceso)* | Videojuego con temática indie/conciencia. | Godot |
 | **MoonRiver Transport & Tour** | Web para empresa de transporte y tours. | JavaScript, HTML, CSS |
 | **Diseño y Creación Web Bijagua** | Sitio web personal y negocio. | HTML, CSS, JS |
+| **SCRCR** | Sitio Web para reportes de asistencia y finanzas para AIBEL. | Next.js, React, Typescript, PostGreSQL con Neon DB |
 
 #### Links:
 MoonRiver: https://moonrivertransportandtour.netlify.app  
