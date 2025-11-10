@@ -19,6 +19,16 @@
 * **IoT & Hardware:** Arduino, ESP8266, C++.  
 * **Tools:** Git, Docker, PrimeFaces, Blynk.
 
+### Technologies & Tools
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -40,8 +50,11 @@ DCWB Bijagua: http://dcwb.netlify.app/
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cLamberti&show_icons=true&theme=transparent)
 
 
-### 📫 Contact
-[![WebSite](https://img.shields.io/badge/WebSite-Visit-blue?style=for-the-badge)](http://dcwb.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=for-the-badge)](#)  
+### 📫 Contact!
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![WebSite](https://img.shields.io/badge/WebSite-Visit-blue?style=for-the-badge)](http://dcwb.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com) 
 
 ---
