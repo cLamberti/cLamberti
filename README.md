@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-lamberti.christopher%40gmail.com-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Software+Engineer;IoT+Enthusiast)](https://git.io/typing-svg)
 
 @Universidad Nacional de Costa Rica  (UNA)
@@ -21,7 +22,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, Node.js |
+| **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, HMTL, CSS |
 | **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
 | **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, JavaScript, Netlify |
 | **Diseño y Creación Web Bijagua** | Personal & business website design. | HTML, CSS, JavaScript |
