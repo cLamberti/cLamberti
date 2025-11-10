@@ -3,7 +3,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
 [![Español](https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge)](README.es.md)
 
-## Hi, I'm Christopher Lamberti 
+## Hola, soy Christopher Lamberti 
 [![WebSite](https://img.shields.io/badge/WebSite-DCWB-blue?style=for-the-badge)](http://dcwb.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Email-lamberti.christopher%40gmail.com-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com)
