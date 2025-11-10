@@ -25,10 +25,12 @@
 | **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
 | **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | Vue, Netlify |
 | **Diseño y Creación Web Bijagua** | Personal & business website design. | HTML, CSS, JavaScript |
+| **SCRCR** | Attendance and finance reporting system for AIBEL. | Next.js, React, Typescript, Neon DB with PostGreSql.
 
 #### Links:
-MoonRiver: https://moonrivertransportandtour.netlify.app  
-DCWB Bijagua: http://dcwb.netlify.app/
+**MoonRiver:** https://moonrivertransportandtour.netlify.app  
+**DCWB Bijagua:** http://dcwb.netlify.app/
+**SCRCR:** *(Comming soon)*
 
 
 ### 📊 GitHub Stats
