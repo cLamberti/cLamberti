@@ -31,11 +31,11 @@ DCWB Bijagua: http://dcwb.netlify.app/
 
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=cLamberti&theme=dark&hide_border=true&border_radius=46&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cLamberti&theme=transparent&hide_border=true&border_radius=46&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cLamberti&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cLamberti&layout=compact&theme=transparent)
 
-![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cLamberti&show_icons=true&theme=dark)
+![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cLamberti&show_icons=true&theme=transparent)
 
 
 ### 📫 Contact
