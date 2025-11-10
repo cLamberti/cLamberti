@@ -17,6 +17,7 @@
 * **IoT & Hardware:** Arduino, ESP8266, C++.  
 * **Tools:** Git, Docker, PrimeFaces, Blynk.
 
+### ⭐ Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
