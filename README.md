@@ -42,6 +42,4 @@ DCWB Bijagua: http://dcwb.netlify.app/
 [![WebSite](https://img.shields.io/badge/WebSite-Visit-blue?style=for-the-badge)](http://dcwb.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=for-the-badge)](#)  
 
-
-[![PlantaDigital](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ---
