@@ -50,7 +50,7 @@ DCWB Bijagua: http://dcwb.netlify.app/
 
 
 ### 📫 Contact!
-I'm always open to interesting conversations and collaboration opportunities!
+I'm always open to learn.
 
 [![WebSite](https://img.shields.io/badge/WebSite-Visit-blue?style=for-the-badge)](http://dcwb.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/tu-perfil)
