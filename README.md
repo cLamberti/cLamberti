@@ -23,7 +23,7 @@
 |--------|-------------|------|
 | **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, Node.js |
 | **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
-| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | Vue, Netlify |
+| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, JavaScript, Netlify |
 | **Diseño y Creación Web Bijagua** | Personal & business website design. | HTML, CSS, JavaScript |
 | **SCRCR** | Attendance and finance reporting system for AIBEL. | Next.js, React, Typescript, Neon DB with PostGreSql.
 
