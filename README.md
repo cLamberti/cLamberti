@@ -5,7 +5,7 @@
 
 ## Hi, I'm Christopher Lamberti 
 [![WebSite](https://img.shields.io/badge/WebSite-DCWB-blue?style=for-the-badge)](http://dcwb.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/christopher-lamberti-00294b263/)
 [![Email](https://img.shields.io/badge/Email-lamberti.christopher%40gmail.com-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Software+Engineer;IoT+Enthusiast)](https://git.io/typing-svg)
@@ -53,7 +53,7 @@ DCWB Bijagua: http://dcwb.netlify.app/
 I'm always open to learn.
 
 [![WebSite](https://img.shields.io/badge/WebSite-Visit-blue?style=for-the-badge)](http://dcwb.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/christopher-lamberti-00294b263/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:lamberti.christopher@gmail.com) 
 
 ---
