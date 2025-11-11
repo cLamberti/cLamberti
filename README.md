@@ -33,7 +33,7 @@
 |--------|-------------|------|
 | **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, HTML, CSS |
 | **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
-| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, Netlify |
+| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, JavaScript, Netlify |
 | **Diseño y Creación Web Bijagua** | Personal & business website design with AI in a chatbot. | HTML, CSS, JavaScript, Python |
 | **SCRCR** | Academic system with real clients of a church, the system is for finnancial and assistance reports. | Next.js, React, Typescript, PostGresSQL in Neon DB|
 
