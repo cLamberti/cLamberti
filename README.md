@@ -14,7 +14,7 @@
 
 ### Tech Stack
 * **Frontend:** Vue, Angular, React (Next.js), JS, TS, HTML, CSS.  
-* **Backend:** Java (Jakarta EE), Spring Boot, Node.js, Go.  
+* **Backend:** Java (Jakarta EE), Spring Boot, Node.js, Go, C++.  
 * **Databases:** MySQL, SQL Server, PostgreSQL (Neon).  
 * **IoT & Hardware:** Arduino, ESP8266, C++.  
 * **Tools:** Git, Docker, PrimeFaces, Blynk.
@@ -31,9 +31,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Planta Digital** | IoT system for crop monitoring: soil humidity, environment sensors + web dashboard. | ESP8266, Arduino, Blynk, HTML, CSS |
-| **Wake Up** *(in progress)* | Indie-style consciousness themed game. | Godot |
-| **MoonRiver Transport & Tour** *(in progress)*| Website for a transportation & tourism business. | HTML, CSS, JavaScript, Netlify |
+| **MoonRiver Transport & Tour** | Website for a transportation & tourism business. | HTML, CSS, JavaScript, Netlify |
+| **Leona Waterfall Tours** | Website for tourism business. | Nuxt, Vue, Vercel |
 | **Diseño y Creación Web Bijagua** | Personal & business website design with AI in a chatbot. | HTML, CSS, JavaScript, Python |
 | **SCRCR** *(in progress)*| Academic system with real clients of a church, the system is for finnancial and assistance reports. | Next.js, React, Typescript, PostGresSQL in Neon DB|
 
