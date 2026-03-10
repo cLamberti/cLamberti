@@ -57,10 +57,10 @@ Angular · Java (Jakarta EE) · Spring Boot · Go · MySQL · SQL Server · Ardu
 
 | Project | Type | Description | Tech | Link |
 |---------|------|-------------|------|------|
-| **JM Ride CR** | Freelance | Full-stack platform for a tourism transport service in Guanacaste. Includes public booking flow, admin panel, email notifications and role-based auth. | Next.js 15, TypeScript, PostgreSQL, Drizzle ORM, Nodemailer | [site](#) · [repo](#) |
-| **Leona Waterfall Tours** | Freelance | Full-stack web app for an ecotourism business. Tour catalog, online reservations, i18n (ES/EN) and SSR with Nuxt. | Nuxt 4, Vue 3, TypeScript, Prisma, PostgreSQL | [site](https://leonawaterfall.vercel.app) · [repo](#) |
-| **MoonRiver Travel** | Freelance | SPA for a tourism & private transfers agency. Real-time quote system across 970+ routes, custom hash router, no frameworks. | JavaScript ES6+, CSS3, JSON, Netlify | [site](https://moonrivertransportandtour.netlify.app) |
-| **Carlos Salguera Tour Guide** | Freelance | SPA for a local tour guide in Bijagua, Río Celeste. Photo gallery with filters, lightbox, contact form and mobile-first design. | JavaScript ES6+, CSS3, Font Awesome, Netlify | [site](#) · [repo](#) |
+| **JM Ride CR** | Freelance | Full-stack platform for a tourism transport service in Guanacaste. Includes public booking flow, admin panel, email notifications and role-based auth. | Next.js 15, TypeScript, PostgreSQL, Drizzle ORM, Nodemailer | [site](https://jm-ride.vercel.app/) |
+| **Leona Waterfall Tours** | Freelance | Full-stack web app for an ecotourism business. Tour catalog, online reservations, i18n (ES/EN) and SSR with Nuxt. | Nuxt 4, Vue 3, TypeScript, Prisma, PostgreSQL | [site](https://leona-waterfall-page.vercel.app/) |
+| **MoonRiver Travel** | Freelance | SPA for a tourism & private transfers agency. Real-time quote system across 970+ routes, custom hash router, no frameworks. | JavaScript ES6+, CSS3, JSON, Netlify | [site](https://moonrivertravel.com/) |
+| **Carlos Salguera Tour Guide** | Freelance | SPA for a local tour guide in Bijagua, Río Celeste. Photo gallery with filters, lightbox, contact form and mobile-first design. | JavaScript ES6+, CSS3, Font Awesome, Netlify | [site](https://carlos-guide.netlify.app/) |
 | **SCRCR** | Academic · Real Client | Church administrative system: member registry, events, attendance reports and role-based access. Managed with Scrum on Azure DevOps. | Next.js 15, TypeScript, PostgreSQL, JWT, Vitest, Azure DevOps | [site](https://scrcr.vercel.app) |
 
 ---
